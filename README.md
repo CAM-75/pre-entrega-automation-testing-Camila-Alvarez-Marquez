@@ -1,4 +1,3 @@
-"""
 Pre Entrega de Automatización QA - Talento Tech
 
 Ejercicios de automatización en la página "Saucedemo" (https://www.saucedemo.com/):
@@ -36,5 +35,3 @@ Fecha: 1° Cuatrimestre, 2026
 	    *** Igualdad entre los nombres del producto agregado al carrito y del artículo en la lista de artículos de la página.
 
 * Para llevar a cabo la Pre Entrega se utilizó VSC, Python, Pytest, Pytest- HTML, Selenium, WebDriver, Chrome (para realizar los tests) y HTML (reporte).
-
-"""
